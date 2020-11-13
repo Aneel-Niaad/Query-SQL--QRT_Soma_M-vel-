@@ -1,1 +1,1 @@
-# Query-SQL--QRT_Soma_M-vel-
+# Query-SQL--QRT_Soma_Movel-
